@@ -22,4 +22,5 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-
+# CICI
+DOMAIN-SUFFIX,ciciai.com
