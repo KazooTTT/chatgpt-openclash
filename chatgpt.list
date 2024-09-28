@@ -25,3 +25,5 @@ DOMAIN-SUFFIX,anthropic.com
 # CICI
 DOMAIN-SUFFIX,ciciai.com
 HOST,gemini.google.com
+
+DOMAIN-SUFFIX,notebooklm.google
