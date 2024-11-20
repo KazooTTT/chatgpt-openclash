@@ -1,29 +1,42 @@
+# ====== OpenAI 相关域名 ======
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,pay.openai.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,platform.openai.com
-# Add ai.com
-DOMAIN-SUFFIX,ai.com
-# Add stripe.com
-DOMAIN-SUFFIX,invoice.stripe.com
-DOMAIN-SUFFIX,stripe.com
-#add poe.com
-DOMAIN-SUFFIX,poe.com
-#add bard.google.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN,openaiapi-site.azureedge.net
+
+# OpenAI 身份验证及安全相关
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+
+# OpenAI 监控服务
+DOMAIN-SUFFIX,sentry.io
+
+# ====== Google AI 服务 ======
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Google AI HOST
+HOST,gemini.google.com
+HOST,notebooklm.google.com
+
+# ====== Anthropic Claude ======
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-# CICI
-DOMAIN-SUFFIX,ciciai.com
+# ====== Poe ======
+DOMAIN-SUFFIX,poe.com
 
-HOST,gemini.google.com
-HOST,notebooklm.google.com
+# ====== Stripe 支付服务 ======
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
+
+# ====== 其他 AI 服务 ======
+DOMAIN-SUFFIX,ai.com
+
+# ====== CICI AI ======
+DOMAIN-SUFFIX,ciciai.com
