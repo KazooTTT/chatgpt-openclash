@@ -19,10 +19,12 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-KEYWORD,generativelanguage
 
 # Google AI HOST
 HOST,gemini.google.com
 HOST,notebooklm.google.com
+
 
 # ====== Anthropic Claude ======
 DOMAIN-SUFFIX,claude.ai
