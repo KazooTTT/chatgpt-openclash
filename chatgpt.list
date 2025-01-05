@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,google.com
 
 # Google AI HOST
 HOST,gemini.google.com
@@ -42,3 +43,4 @@ DOMAIN-SUFFIX,ai.com
 
 # ====== CICI AI ======
 DOMAIN-SUFFIX,ciciai.com
+
