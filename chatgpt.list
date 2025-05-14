@@ -72,3 +72,9 @@ DOMAIN-SUFFIX,ciciai.com
 # groq
 # 匹配 groq.com 及其所有子域名
 DOMAIN-SUFFIX,groq.com
+
+# gork
+# 匹配 grok.com 及其所有子域名
+DOMAIN-SUFFIX,grok.com
+
+
