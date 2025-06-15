@@ -35,8 +35,6 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,notebooklm.google.com
 # 匹配域名中包含 "generativelanguage" 关键词的域名
 DOMAIN-KEYWORD,generativelanguage
-# 匹配 google.com 及其所有子域名
-DOMAIN-SUFFIX,google.com
 
 DOMAIN-SUFFIX,googleapis.com
 
