@@ -75,8 +75,8 @@ DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,groq.com
 
 # gork
-# 匹配 grok.com 及其所有子域名
+# 匹配 grok.com 及其所有子域名 
 DOMAIN-SUFFIX,grok.com
 
 # DIA or ARC
-DOMAIN-SUFFIX, diabrowser.com
+DOMAIN-KEYWORD,diabrowser
