@@ -80,3 +80,13 @@ DOMAIN-SUFFIX,grok.com
 
 # DIA or ARC
 DOMAIN-KEYWORD,diabrowser
+
+# ====== Cursor IDE ======
+# 匹配 cursor.sh 及其所有子域名
+DOMAIN-SUFFIX,cursor.sh
+# 匹配 cursor.com 及其所有子域名
+DOMAIN-SUFFIX,cursor.com
+# 匹配 cursor.so 及其所有子域名
+DOMAIN-SUFFIX,cursor.so
+# 匹配域名中包含 "cursor" 关键词的域名
+DOMAIN-KEYWORD,cursor
