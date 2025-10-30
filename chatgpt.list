@@ -1,32 +1,4 @@
-# ====== OpenAI 相关域名 ======
-# 匹配 openai.com 及其所有子域名
-DOMAIN-SUFFIX,openai.com
-# 匹配 chat.openai.com 及其所有子域名
-DOMAIN-SUFFIX,chat.openai.com
-# 匹配 pay.openai.com 及其所有子域名
-DOMAIN-SUFFIX,pay.openai.com
-# 匹配 platform.openai.com 及其所有子域名
-DOMAIN-SUFFIX,platform.openai.com
-# 匹配 auth0.openai.com 及其所有子域名
-DOMAIN-SUFFIX,auth0.openai.com
-# 精确匹配 openaiapi-site.azureedge.net
-DOMAIN,openaiapi-site.azureedge.net
-
-# OpenAI 身份验证及安全相关
-# 匹配 challenges.cloudflare.com 及其所有子域名
-DOMAIN-SUFFIX,challenges.cloudflare.com
-# 匹配 identrust.com 及其所有子域名
-DOMAIN-SUFFIX,identrust.com
-
-# OpenAI 监控服务
-# 匹配 sentry.io 及其所有子域名
-DOMAIN-SUFFIX,sentry.io
-
 # ====== Google AI 服务 ======
-# 匹配 bard.google.com 及其所有子域名
-DOMAIN-SUFFIX,bard.google.com
-# 匹配 gemini.google.com 及其所有子域名
-DOMAIN-SUFFIX,gemini.google.com
 # 匹配 aistudio.google.com 及其所有子域名
 DOMAIN-SUFFIX,aistudio.google.com
 # 匹配 ai.google.dev 及其所有子域名
@@ -39,19 +11,6 @@ DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,googleapis.com
 
 
-# Google AI HOST
-# 精确匹配 gemini.google.com
-HOST,gemini.google.com
-# 精确匹配 notebooklm.google.com
-HOST,notebooklm.google.com
-
-
-# ====== Anthropic Claude ======
-# 匹配 claude.ai 及其所有子域名
-DOMAIN-SUFFIX,claude.ai
-# 匹配 anthropic.com 及其所有子域名
-DOMAIN-SUFFIX,anthropic.com
-
 # ====== Poe ======
 # 匹配 poe.com 及其所有子域名
 DOMAIN-SUFFIX,poe.com
@@ -62,17 +21,9 @@ DOMAIN-SUFFIX,stripe.com
 # 匹配 invoice.stripe.com 及其所有子域名
 DOMAIN-SUFFIX,invoice.stripe.com
 
-# ====== 其他 AI 服务 ======
-# 匹配 ai.com 及其所有子域名
-DOMAIN-SUFFIX,ai.com
-
 # ====== CICI AI ======
 # 匹配 ciciai.com 及其所有子域名
 DOMAIN-SUFFIX,ciciai.com
-
-# groq
-# 匹配 groq.com 及其所有子域名
-DOMAIN-SUFFIX,groq.com
 
 # gork
 # 匹配 grok.com 及其所有子域名 
@@ -80,3 +31,49 @@ DOMAIN-SUFFIX,grok.com
 
 # DIA or ARC
 DOMAIN-KEYWORD,diabrowser
+DOMAIN-KEYWORD,cursor
+
+# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+# SYNC AI DOMAIN
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,api.githubcopilot.com
+DOMAIN,api.groq.com
+DOMAIN,api.together.xyz
+DOMAIN,bard.google.com
+DOMAIN,console.groq.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,sydney.bing.com
+DOMAIN-SUFFIX,ai.azure.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,sora.com
