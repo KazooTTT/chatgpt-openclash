@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-KEYWORD,diabrowser
 DOMAIN-KEYWORD,cursor
 
+# copilot
+DOMAIN-KEYWORD,githubcopilot
+
 # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 # SYNC AI DOMAIN
 DOMAIN-KEYWORD,claude
