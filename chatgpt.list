@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-KEYWORD,generativelanguage
 
 DOMAIN-SUFFIX,googleapis.com
-
+DOMAIN,antigravity.google
 
 # ====== Poe ======
 # 匹配 poe.com 及其所有子域名
@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,ciciai.com
 
 # gork
-# 匹配 grok.com 及其所有子域名 
+# 匹配 grok.com 及其所有子域名
 DOMAIN-SUFFIX,grok.com
 
 # DIA or ARC
