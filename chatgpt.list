@@ -1,8 +1,8 @@
 # ====== Google AI 服务 ======
 # 匹配域名中包含 "generativelanguage" 关键词的域名
 DOMAIN-KEYWORD,generativelanguage
-# 匹配域名中包含 "google" 关键词的域名
-DOMAIN-KEYWORD,google
+# 匹配域名中包含 "google" 关键词的域名，这个太过于宽泛了
+# DOMAIN-KEYWORD,google
 
 
 # ====== Poe ======
