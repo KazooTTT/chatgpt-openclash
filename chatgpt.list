@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,generativelanguage
 # 匹配域名中包含 "google" 关键词的域名，这个太过于宽泛了
 # DOMAIN-KEYWORD,google
-
+DOMAIN-SUFFIX,ai.google.dev
 
 # ====== Poe ======
 # 匹配 poe.com 及其所有子域名
